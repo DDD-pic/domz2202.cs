@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.AssemblyInfo.cs
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\SEMINAR2202\bin\Debug\net6.0\SEMINAR2202.exe
+C:\Users\Дом\Desktop\SEMINAR2202\bin\Debug\net6.0\SEMINAR2202.deps.json
+C:\Users\Дом\Desktop\SEMINAR2202\bin\Debug\net6.0\SEMINAR2202.runtimeconfig.json
+C:\Users\Дом\Desktop\SEMINAR2202\bin\Debug\net6.0\SEMINAR2202.dll
+C:\Users\Дом\Desktop\SEMINAR2202\bin\Debug\net6.0\SEMINAR2202.pdb
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.dll
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\refint\SEMINAR2202.dll
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.pdb
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\SEMINAR2202.genruntimeconfig.cache
+C:\Users\Дом\Desktop\SEMINAR2202\obj\Debug\net6.0\ref\SEMINAR2202.dll
