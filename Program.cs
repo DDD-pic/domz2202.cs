@@ -30,7 +30,7 @@ Console.WriteLine("a в степени b: " + step);
 
 9012 -> 12
 */
-Console.WriteLine("Введите число a");
+/*Console.WriteLine("Введите число a");
 int number = Convert.ToInt32(Console.ReadLine()); 
 int sum = 0;
 
@@ -47,3 +47,26 @@ Console.WriteLine(sum);
 
 6, 1, 33 -> [6, 1, 33]
 */
+
+
+    
+
+
+Console.Write("Введите число : ");
+int size = Convert.ToInt32(Console.ReadLine());
+int[] GetBinaryArray(int size)
+{
+    int[] array = new int[size]; 
+    
+    for (int i = 0; i < size; i++)
+    {
+        
+        array[i] = new Random().Next(20); 
+        
+    }
+    return array;
+}
+int[] resultArray = GetBinaryArray(8);
+double[] test = new double[10]; 
+
+Console.WriteLine($"Массив: [ {String.Join(", ", resultArray)} ]");
